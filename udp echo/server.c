@@ -4,7 +4,7 @@
 #include<sys/socket.h>
 #include<netinet/in.h>
 #include<unistd.h>
-// time
+
 
 #define MAXLINE 1024
 #define PORT 5035
